@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wjwgdx.game"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml
+10
+11    <application
+11-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:5:5-28:19
+12        android:allowBackup="true"
+12-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:6:9-35
+13        android:appCategory="game"
+13-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:9:9-35
+14        android:debuggable="true"
+15        android:icon="@drawable/ic_launcher"
+15-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:7:9-45
+16        android:isGame="true"
+16-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:8:9-30
+17        android:label="@string/app_name"
+17-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:10:9-41
+18        android:testOnly="true"
+19        android:theme="@style/GdxTheme" >
+19-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:11:9-40
+20
+21        <!--
+22        com.mygdx.game.AndroidLauncher
+23         android:name="com.gdx.game.android.AndroidLauncher"
+24        -->
+25        <activity
+25-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:17:9-27:20
+26            android:name="com.gdx.game.android.AndroidLauncher"
+26-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:18:13-64
+27            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|screenLayout"
+27-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:22:13-107
+28            android:label="@string/app_name"
+28-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:20:13-45
+29            android:screenOrientation="landscape" >
+29-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:21:13-50
+30            <intent-filter>
+30-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:23:13-26:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:24:17-69
+31-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:24:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:25:17-77
+33-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:25:27-74
+34            </intent-filter>
+35        </activity>
+36    </application>
+37
+38</manifest>

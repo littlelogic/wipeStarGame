@@ -1,0 +1,2 @@
+com/mygdx/game/IOSLauncher.java
+ com.mygdx.game.IOSLauncher
