@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wipeStarGame.iml" filepath="$PROJECT_DIR$/.idea/modules/wipeStarGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/wipeStarGame.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/wipeStarGame.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/wipeStarGame.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/wipeStarGame.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/wipeStarGame.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/wipeStarGame.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/wipeStarGame.html.iml" filepath="$PROJECT_DIR$/.idea/modules/html/wipeStarGame.html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/wipeStarGame.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/wipeStarGame.ios.iml" />
+    </modules>
+  </component>
+</project>

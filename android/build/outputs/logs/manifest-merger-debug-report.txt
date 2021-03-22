@@ -38,7 +38,7 @@ ADDED from /Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidM
 activity#com.gdx.game.android.AndroidLauncher
 ADDED from /Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:17:9-27:20
 	android:screenOrientation
-		ADDED from /Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:21:13-50
+		ADDED from /Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:21:13-49
 	android:label
 		ADDED from /Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:20:13-45
 	android:configChanges

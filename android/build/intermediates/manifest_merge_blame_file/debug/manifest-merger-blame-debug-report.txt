@@ -39,8 +39,8 @@
 27-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:22:13-107
 28            android:label="@string/app_name"
 28-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:20:13-45
-29            android:screenOrientation="landscape" >
-29-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:21:13-50
+29            android:screenOrientation="portrait" >
+29-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:21:13-49
 30            <intent-filter>
 30-->/Users/wujiawen/Documents/work_original/wipeStarGame/android/AndroidManifest.xml:23:13-26:29
 31                <action android:name="android.intent.action.MAIN" />
