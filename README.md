@@ -1,6 +1,6 @@
 # wipeStarGame
 
-#
+# 2016年初写的，最近整理了一下
 https://github.com/littlelogic
 
 
