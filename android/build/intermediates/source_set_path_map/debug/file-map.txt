@@ -1,0 +1,8 @@
+com.wjwgdx.game.android-pngs-0 /Users/wujiawen/Documents/work_original/wipeStarGame/android/build/generated/res/pngs/debug
+com.wjwgdx.game.android-resValues-1 /Users/wujiawen/Documents/work_original/wipeStarGame/android/build/generated/res/resValues/debug
+com.wjwgdx.game.android-rs-2 /Users/wujiawen/Documents/work_original/wipeStarGame/android/build/generated/res/rs/debug
+com.wjwgdx.game.android-mergeDebugResources-3 /Users/wujiawen/Documents/work_original/wipeStarGame/android/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.wjwgdx.game.android-mergeDebugResources-4 /Users/wujiawen/Documents/work_original/wipeStarGame/android/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.wjwgdx.game.android-merged_res-5 /Users/wujiawen/Documents/work_original/wipeStarGame/android/build/intermediates/merged_res/debug
+com.wjwgdx.game.android-android-6 /Users/wujiawen/Documents/work_original/wipeStarGame/android/res
+com.wjwgdx.game.android-debug-7 /Users/wujiawen/Documents/work_original/wipeStarGame/android/src/debug/res

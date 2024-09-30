@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.badlogicgames.gdx:gdx-box2d:1.11.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.badlogicgames.gdx" artifactId="gdx-box2d" version="1.11.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../diy-maven/com/badlogicgames/gdx/gdx-box2d/1.11.0/gdx-box2d-1.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../diy-maven/com/badlogicgames/gdx/gdx-box2d/1.11.0/gdx-box2d-1.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

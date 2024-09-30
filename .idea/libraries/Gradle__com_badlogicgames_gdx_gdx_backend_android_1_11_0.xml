@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.badlogicgames.gdx:gdx-backend-android:1.11.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.badlogicgames.gdx" artifactId="gdx-backend-android" version="1.11.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../diy-maven/com/badlogicgames/gdx/gdx-backend-android/1.11.0/gdx-backend-android-1.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/badlogicgames/gdx/gdx-backend-android/1.11.0/gdx-backend-android-1.11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/badlogicgames/gdx/gdx-backend-android/1.11.0/gdx-backend-android-1.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

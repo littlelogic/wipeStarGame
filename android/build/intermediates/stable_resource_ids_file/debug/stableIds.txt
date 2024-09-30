@@ -1,0 +1,5 @@
+com.wjwgdx.game:string/app_name = 0x7f030000
+com.wjwgdx.game:drawable/ic_launcher_foreground = 0x7f020001
+com.wjwgdx.game:drawable/ic_launcher = 0x7f020000
+com.wjwgdx.game:style/GdxTheme = 0x7f040000
+com.wjwgdx.game:color/ic_background_color = 0x7f010000

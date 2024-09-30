@@ -19,6 +19,7 @@ import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.LifecycleListener;
 import com.badlogic.gdx.backends.android.surfaceview.FillResolutionStrategy;
+import com.badlogic.gdx.utils.GdxNativesLoader;
 import com.badlogic.gdx.utils.GdxRuntimeException;
 import com.gdx.game.android.LogAndroid;
 
@@ -47,11 +48,12 @@ public class W_AndroidApplication extends AndroidApplication {
 
     private void init (ApplicationListener listener, AndroidApplicationConfiguration config, boolean isForView) {
         if (this.getVersion() < MINIMUM_SDK) {
-            throw new GdxRuntimeException("LibGDX requires Android API Level " + MINIMUM_SDK + " or later.");
+            throw new GdxRuntimeException("libGDX requires Android API Level " + MINIMUM_SDK + " or later.");
         }
+        GdxNativesLoader.load();
         setApplicationLogger(new AndroidApplicationLogger());
-        graphics = new AndroidGraphics(this, config, config.resolutionStrategy == null ? new FillResolutionStrategy()
-                : config.resolutionStrategy);
+        graphics = new AndroidGraphics(this, config,
+                config.resolutionStrategy == null ? new FillResolutionStrategy() : config.resolutionStrategy);
         input = createInput(this, this, graphics.view, config);
         audio = createAudio(this, config);
         files = createFiles();
@@ -59,7 +61,6 @@ public class W_AndroidApplication extends AndroidApplication {
         this.listener = listener;
         this.handler = new Handler();
         this.useImmersiveMode = config.useImmersiveMode;
-        this.hideStatusBar = config.hideStatusBar;
         this.clipboard = new AndroidClipboard(this);
 
         // Add a specialized audio lifecycle listener
@@ -120,7 +121,6 @@ public class W_AndroidApplication extends AndroidApplication {
         }
 
         createWakeLock(config.useWakelock);
-        hideStatusBar(this.hideStatusBar);
         useImmersiveMode(this.useImmersiveMode);
         if (this.useImmersiveMode && getVersion() >= Build.VERSION_CODES.KITKAT) {
             AndroidVisibilityListener vlistener = new AndroidVisibilityListener();
@@ -128,10 +128,7 @@ public class W_AndroidApplication extends AndroidApplication {
         }
 
         // detect an already connected bluetooth keyboardAvailable
-        if (getResources().getConfiguration().keyboard != Configuration.KEYBOARD_NOKEYS)
-            input.setKeyboardAvailable(true);
+        if (getResources().getConfiguration().keyboard != Configuration.KEYBOARD_NOKEYS) input.setKeyboardAvailable(true);
     }
-
-
 
 }

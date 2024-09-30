@@ -1,0 +1,7 @@
+com.wjwgdx.game.test.android-androidTest-0 /Users/wujiawen/Documents/work_original/wipeStarGame/android/build/generated/res/resValues/androidTest/debug
+com.wjwgdx.game.test.android-androidTest-1 /Users/wujiawen/Documents/work_original/wipeStarGame/android/build/generated/res/rs/androidTest/debug
+com.wjwgdx.game.test.android-mergeDebugAndroidTestResources-2 /Users/wujiawen/Documents/work_original/wipeStarGame/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.wjwgdx.game.test.android-mergeDebugAndroidTestResources-3 /Users/wujiawen/Documents/work_original/wipeStarGame/android/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.wjwgdx.game.test.android-merged_res-4 /Users/wujiawen/Documents/work_original/wipeStarGame/android/build/intermediates/merged_res/debugAndroidTest
+com.wjwgdx.game.test.android-androidTest-5 /Users/wujiawen/Documents/work_original/wipeStarGame/android/src/androidTest/res
+com.wjwgdx.game.test.android-androidTestDebug-6 /Users/wujiawen/Documents/work_original/wipeStarGame/android/src/androidTestDebug/res

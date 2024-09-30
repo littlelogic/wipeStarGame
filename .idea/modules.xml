@@ -4,10 +4,21 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/wipeStarGame.iml" filepath="$PROJECT_DIR$/.idea/modules/wipeStarGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/wipeStarGame.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/wipeStarGame.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/wipeStarGame.android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/wipeStarGame.android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/wipeStarGame.android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/android/wipeStarGame.android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/wipeStarGame.android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/android/wipeStarGame.android.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/wipeStarGame.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/wipeStarGame.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/wipeStarGame.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/wipeStarGame.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/wipeStarGame.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/wipeStarGame.core.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/wipeStarGame.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/wipeStarGame.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/wipeStarGame.desktop.main.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/wipeStarGame.desktop.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/wipeStarGame.desktop.test.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/wipeStarGame.desktop.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/wipeStarGame.html.iml" filepath="$PROJECT_DIR$/.idea/modules/html/wipeStarGame.html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/wipeStarGame.html.main.iml" filepath="$PROJECT_DIR$/.idea/modules/html/wipeStarGame.html.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/wipeStarGame.html.test.iml" filepath="$PROJECT_DIR$/.idea/modules/html/wipeStarGame.html.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/wipeStarGame.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/wipeStarGame.ios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/wipeStarGame.ios.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/wipeStarGame.ios.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/wipeStarGame.ios.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/wipeStarGame.ios.test.iml" />
     </modules>
   </component>
 </project>
